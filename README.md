@@ -1,62 +1,65 @@
-<!--
-  THE DEVELOPER MULTIVERSE — GitHub profile README
-  Customize with: python configure.py --username your-handle --name "Your Name"
-  Images are local, so the README is not dependent on third-party stats services.
---><div align="center"><img src="assets/hero.svg" width="100%" alt="The Developer Multiverse — building digital worlds" />Hey, I'm YOUR_NAME. I turn complex ideas into things people can use.
-BACKEND THINKING  ·  CREATIVE ENGINEERING  ·  ALWAYS BUILDING
-
-<a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=orbit"><img alt="Launch 3D universe" src="https://img.shields.io/badge/✦_ENTER_THE_3D_UNIVERSE-16e0cd?style=for-the-badge&labelColor=0b1020" /></a>
-<a href="https://github.com/WahyuPrayogo1?tab=repositories"><img alt="Explore my code" src="https://img.shields.io/badge/EXPLORE_MY_CODE-d6b3ff?style=for-the-badge&labelColor=0b1020" /></a>
-</div>🛰️ This profile has a secret dimension
-The image below is a preview, not a fake interactive embed. Click it to enter a real, explorable 3D space. Rotate the camera, zoom in, select glowing districts, and uncover how I think about software.
 <div align="center">
-  <a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=orbit">
-    <img src="assets/city-preview.gif" width="100%" alt="Animated isometric futuristic city. Click to explore the interactive 3D universe." />
-  </a>
-  <sub>✦ ANIMATED CITY PREVIEW &nbsp; // &nbsp; CLICK TO LAUNCH A REAL 3D EXPERIENCE</sub>
+  <img src="assets/hero.svg" width="100%" alt="Wahyu Prayogo — Full-Stack Software Engineer working with Laravel, React, and system design" />
 </div>
-<table>
-  <tr>
-    <td align="center" width="33%"><a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=orbit"><b>🌌 ORBIT MODE</b></a><br/><sub>Explore the universe with your mouse</sub></td>
-    <td align="center" width="33%"><a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=close"><b>🔬 CLOSE-UP MODE</b></a><br/><sub>Get closer to the engineering districts</sub></td>
-    <td align="center" width="33%"><a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=overlook"><b>🛸 OVERLOOK MODE</b></a><br/><sub>See the whole system from above</sub></td>
-  </tr>
-</table>⚡ What powers my universe?
-// SYSTEM PROFILE
-const builder = {
-  focus:     ["Useful systems", "Thoughtful architecture", "Automation"],
-  toolkit:   ["PHP", "MySQL", "JavaScript", "HTML", "CSS", "Git"],
-  approach:  "Build → Learn → Improve → Repeat",
-  status:    "Making the next idea real"
-};
-🗃️ Open a mission file
-<details>
-<summary><b>01 / SYSTEMS ENGINEERING — The architecture behind the magic</b></summary>
-<br/>
-I enjoy designing software that turns complicated workflows into clean, reliable experiences: dashboards, role-based tools, data flows, and maintainable backend systems.
-<br/><br/>
-<a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=close">→ Visit the backend district in 3D</a>
-</details><details>
-<summary><b>02 / HUMAN-CENTERED PRODUCTS — Software made for real people</b></summary>
-<br/>
-My favorite projects solve everyday problems. I care about readable interfaces, predictable workflows, and the small details that make software feel effortless.
-<br/><br/>
-<a href="https://github.com/WahyuPrayogo1?tab=repositories">→ Browse project repositories</a>
-</details><details>
-<summary><b>03 / THE EXPERIMENT LAB — Where weird ideas become prototypes</b></summary>
-<br/>
-This profile is one of those experiments: a GitHub-compatible README connected to a real 3D world. Curiosity is part of the workflow.
-<br/><br/>
-<a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=overlook">→ Open the experiment portal</a>
-</details><details>
-<summary><b>🎮 SECRET: Developer console unlocked</b></summary>
-<br/>
-<code>ACCESS GRANTED // curiosity detected</code>
-<br/><br/>
-There is a hidden **GLITCH MODE** in my 3D world. <a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/?mode=glitch">Enter the secret portal</a> and try the <code>1</code>, <code>2</code>, <code>3</code>, and <code>R</code> keys.
-</details><div align="center">Ideas are easy to imagine. Building them is the adventure.
 
-<a href="https://github.com/WahyuPrayogo1?tab=repositories">[ REPOSITORIES ]</a>   •   <a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/">[ 3D UNIVERSE ]</a>   •   <a href="https://github.com/WahyuPrayogo1">[ GITHUB PROFILE ]</a>
+<br />
 
-<sub>Designed as an original, code-generated experience · no embedded JavaScript in GitHub README · interactive 3D runs on GitHub Pages</sub>
+<div align="center">
+  <strong>I turn complex workflows into web experiences that feel simple.</strong>
+  <br />
+  From system design and Laravel backends to React interfaces, I enjoy building the whole thing.
+  <br /><br />
+  <strong>Open to work opportunities</strong> &nbsp;·&nbsp;
+  <a href="https://github.com/WahyuPrayogo1">View my GitHub ↗</a>
+</div>
+
+<br />
+
+## 01 / What I bring to the table
+
+| Layer | My focus |
+| :--- | :--- |
+| **System design** | Making sense of business rules, data, and how each part connects. |
+| **Backend** | Building application logic and workflows with Laravel. |
+| **Frontend** | Turning those workflows into clear interfaces with React and JavaScript. |
+
+I care about the full journey: understanding the problem, shaping the system, making it work, and refining how people use it.
+
+## 02 / Tools I actually use
+
+`Laravel` &nbsp; `React` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Tailwind CSS`
+
+**Strongest areas:** Laravel and system design.
+
+## 03 / Problems I've worked on
+
+| Space | Examples |
+| :--- | :--- |
+| **AI & learning** | PDF-based RAG for an LMS; an online library. |
+| **Operations** | IPOMS; beauty-product stock management. |
+| **Booking & commerce** | Villa reservations; a broker platform; WordPress stores and company profiles. |
+| **Water management** | A water-source system with web and Android components. |
+
+These projects are in private repositories or belong to other people, so I share the problem areas without publishing their code.
+
+## 04 / A little room for experiments
+
+I also like giving technical ideas a visual world of their own. This animated city is one of those experiments.
+
+<div align="center">
+  <a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/">
+    <img src="city-preview.gif" width="100%" alt="Animated isometric city from The Developer Multiverse visual experiment" />
+  </a>
+  <br />
+  <sub>THE DEVELOPER MULTIVERSE &nbsp; / &nbsp; BUILD · EXPERIMENT · REFINE</sub>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Let's build something useful.</strong>
+  <br /><br />
+  <a href="https://github.com/WahyuPrayogo1">GitHub profile ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/WahyuPrayogo1?tab=repositories">Public repositories ↗</a>
 </div>

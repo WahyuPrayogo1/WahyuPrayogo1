@@ -1,54 +1,49 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Wahyu Prayogo — Full-Stack Software Engineer working with Laravel, React, and system design" />
-</div>
-
-<br />
-
-<div align="center">
-  <strong>I turn complex workflows into web experiences that feel simple.</strong>
-  <br />
-  From system design and Laravel backends to React interfaces, I enjoy building the whole thing.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img src="./dark.svg" width="100%" alt="Wahyu Prayogo, Software Engineer working with Laravel, React, and system design" />
+  </picture>
   <br /><br />
-  <strong>Open to work opportunities</strong> &nbsp;·&nbsp;
-  <a href="https://github.com/WahyuPrayogo1">View my GitHub ↗</a>
+  <strong>From complex flows to clear products.</strong>
+  <br />
+  I work across system design, Laravel backends, and React interfaces to build web applications people can actually use.
 </div>
 
 <br />
 
-## 01 / What I bring to the table
+## About me
 
-| Layer | My focus |
+I'm a **Software Engineer** who enjoys working across the journey from business logic to the final screen. Laravel and system design are my strongest areas. I also build interfaces with React and care about performance and usability along the way.
+
+I'm currently **open to work opportunities**.
+
+## What I've worked on
+
+| Area | Work |
 | :--- | :--- |
-| **System design** | Making sense of business rules, data, and how each part connects. |
-| **Backend** | Building application logic and workflows with Laravel. |
-| **Frontend** | Turning those workflows into clear interfaces with React and JavaScript. |
-
-I care about the full journey: understanding the problem, shaping the system, making it work, and refining how people use it.
-
-## 02 / Tools I actually use
-
-`Laravel` &nbsp; `React` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Tailwind CSS`
-
-**Strongest areas:** Laravel and system design.
-
-## 03 / Problems I've worked on
-
-| Space | Examples |
-| :--- | :--- |
-| **AI & learning** | PDF-based RAG for an LMS; an online library. |
-| **Operations** | IPOMS; beauty-product stock management. |
+| **AI & education** | PDF-based RAG for an LMS; an online library. |
+| **Business operations** | IPOMS; beauty-product stock management. |
 | **Booking & commerce** | Villa reservations; a broker platform; WordPress stores and company profiles. |
 | **Water management** | A water-source system with web and Android components. |
 
-These projects are in private repositories or belong to other people, so I share the problem areas without publishing their code.
+These projects are in private repositories or belong to other people, so I describe the work without publishing their code.
 
-## 04 / A little room for experiments
+## Engineering stack
 
-I also like giving technical ideas a visual world of their own. This animated city is one of those experiments.
+| Focus | Tools and skills |
+| :--- | :--- |
+| **Backend** | Laravel |
+| **Frontend** | React, JavaScript, HTML, CSS, Tailwind CSS |
+| **Architecture** | System design, business workflows |
+
+## A visual side project
+
+I also enjoy experimenting with how technical ideas can be presented. This animated city is one of those explorations.
 
 <div align="center">
   <a href="https://WahyuPrayogo1.github.io/WahyuPrayogo1/">
-    <img src="city-preview.gif" width="100%" alt="Animated isometric city from The Developer Multiverse visual experiment" />
+    <img src="./city-preview.gif" width="100%" alt="Animated isometric city from The Developer Multiverse visual experiment" />
   </a>
   <br />
   <sub>THE DEVELOPER MULTIVERSE &nbsp; / &nbsp; BUILD · EXPERIMENT · REFINE</sub>

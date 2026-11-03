@@ -110,13 +110,13 @@
       <text x="1050" y="399" fill="#14263d">HTML/CSS</text>
     </g>
 
-    <text x="514" y="451" fill="#648097" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" letter-spacing="1.5">SELECTED PROBLEM SPACES</text>
+    <text x="514" y="451" fill="#648097" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" letter-spacing="1.5">PROBLEMS I LIKE TO SOLVE</text>
     <circle cx="520" cy="477" r="3" fill="#087e91"/>
-    <text x="536" y="482" fill="#14263d" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">PDF RAG for an LMS</text>
+    <text x="536" y="482" fill="#14263d" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Complex business workflows</text>
     <circle cx="520" cy="505" r="3" fill="#4c66c9"/>
-    <text x="536" y="510" fill="#14263d" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Water-source management / web + Android</text>
+    <text x="536" y="510" fill="#14263d" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Application performance</text>
     <circle cx="520" cy="533" r="3" fill="#7154b8"/>
-    <text x="536" y="538" fill="#14263d" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Villa booking / inventory / commerce</text>
+    <text x="536" y="538" fill="#14263d" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Clear, usable interfaces</text>
     <path d="M514 549h602" stroke="#c3d6e7"/>
     <rect x="514" y="559" width="116" height="18" rx="9" fill="#ddf4ef"/>
     <circle cx="527" cy="568" r="3" fill="#13866e"><animate attributeName="opacity" values="1;.5;1" dur="4s" repeatCount="indefinite"/></circle>

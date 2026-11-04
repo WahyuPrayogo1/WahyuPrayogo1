@@ -47,23 +47,6 @@ I enjoy working on a product from its first system diagram to the final interfac
 
 **Architecture:** system design and business workflow planning.
 
-## GitHub statistics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=WahyuPrayogo1&amp;show_icons=true&amp;theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=WahyuPrayogo1&amp;show_icons=true&amp;theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api?username=WahyuPrayogo1&amp;show_icons=true" alt="GitHub statistics for WahyuPrayogo1" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WahyuPrayogo1&amp;layout=compact&amp;theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WahyuPrayogo1&amp;layout=compact&amp;theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WahyuPrayogo1&amp;layout=compact" alt="Languages in WahyuPrayogo1 public repositories" />
-  </picture>
-  <br />
-  <sub>Live public GitHub activity and repository languages.</sub>
-</div>
 
 ## Connect
 

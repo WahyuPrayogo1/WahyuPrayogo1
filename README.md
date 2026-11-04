@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dark3.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light3.svg" />
     <img src="./dark.svg" width="100%" alt="Wahyu Prayogo — Software Engineer focused on system design, Laravel, and React" />
   </picture>
   <br /><br />

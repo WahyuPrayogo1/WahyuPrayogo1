@@ -1,71 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="370" viewBox="0 0 1180 370" role="img" aria-label="Wahyu Prayogo, Software Engineer. I design web systems and build them with Laravel and React.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="450" viewBox="0 0 1180 450" role="img" aria-label="Wahyu Prayogo, Software Engineer. System design, Laravel backend development, React interfaces, and a broader web development stack.">
   <title>Wahyu Prayogo — Software Engineer</title>
-  <desc>A light engineering profile banner with a visual path from system design to Laravel and React.</desc>
+  <desc>A light profile banner showing Wahyu's engineering approach and the same tech stack categories listed in his README.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f8fbff"/>
-      <stop offset="1" stop-color="#e8f2fb"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#087d92"/>
-      <stop offset="1" stop-color="#655ac5"/>
-    </linearGradient>
-    <radialGradient id="halo">
-      <stop offset="0" stop-color="#a1dce0" stop-opacity=".24"/>
-      <stop offset="1" stop-color="#a1dce0" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <path d="M26 0H0V26" fill="none" stroke="#9db8d0" stroke-opacity=".16"/>
-    </pattern>
-    <clipPath id="frame"><rect width="1180" height="370" rx="24"/></clipPath>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fbff"/><stop offset="1" stop-color="#e9f2fb"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#087d92"/><stop offset="1" stop-color="#655ac5"/></linearGradient>
+    <radialGradient id="halo"><stop offset="0" stop-color="#a1dce0" stop-opacity=".22"/><stop offset="1" stop-color="#a1dce0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9db8d0" stroke-opacity=".15"/></pattern>
+    <clipPath id="frame"><rect width="1180" height="450" rx="25"/></clipPath>
   </defs>
-
   <g clip-path="url(#frame)">
-    <rect width="1180" height="370" fill="url(#background)"/>
-    <rect width="1180" height="370" fill="url(#grid)"/>
-    <circle cx="929" cy="185" r="245" fill="url(#halo)"/>
-    <rect x="1" y="1" width="1178" height="368" rx="23" fill="none" stroke="#bfd2e3" stroke-width="2"/>
-    <path d="M43 38v292" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-    <path d="M73 79h68" stroke="#087d92" stroke-width="3"/>
-    <text x="73" y="66" fill="#087d92" font-family="Consolas, Menlo, Monaco, monospace" font-size="13" font-weight="700" letter-spacing="2.5">WP / ENGINEERING PROFILE</text>
-
-    <text x="70" y="152" fill="#183047" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="800" letter-spacing="-2">Wahyu Prayogo</text>
-    <text x="73" y="201" fill="#087d92" font-family="Consolas, Menlo, Monaco, monospace" font-size="26" font-weight="700" letter-spacing="1.5">SOFTWARE ENGINEER</text>
-    <path d="M73 220h495" stroke="#bfd2e3" stroke-width="1.5"/>
-    <text x="73" y="252" fill="#4b657e" font-family="Arial, Helvetica, sans-serif" font-size="18">I design web systems and build them with</text>
-    <text x="73" y="280" fill="#4b657e" font-family="Arial, Helvetica, sans-serif" font-size="18">Laravel and React.</text>
-
-    <rect x="73" y="309" width="163" height="32" rx="9" fill="#e1f1f6" stroke="#bfd2e3"/>
-    <rect x="247" y="309" width="111" height="32" rx="9" fill="#e1f1f6" stroke="#bfd2e3"/>
-    <rect x="369" y="309" width="94" height="32" rx="9" fill="#e1f1f6" stroke="#bfd2e3"/>
-    <text x="154" y="330" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" font-weight="700">SYSTEM DESIGN</text>
-    <text x="302" y="330" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" font-weight="700">LARAVEL</text>
-    <text x="416" y="330" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" font-weight="700">REACT</text>
-
-    <path d="M625 37v295" stroke="#bfd2e3" stroke-opacity=".65"/>
-    <text x="672" y="66" fill="#668098" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" letter-spacing="2">DESIGN  →  BUILD  →  EXPERIENCE</text>
-    <circle cx="905" cy="197" r="144" fill="none" stroke="#bfd2e3" stroke-opacity=".42"/>
-    <circle cx="905" cy="197" r="111" fill="none" stroke="#087d92" stroke-opacity=".18"/>
-    <path d="M905 174v53M905 227h-147v23M905 227h147v23" fill="none" stroke="#5e93ae" stroke-width="2.5" stroke-dasharray="6 7">
-      <animate attributeName="stroke-dashoffset" values="0;-26" dur="9s" repeatCount="indefinite"/>
-    </path>
-    <circle cx="905" cy="227" r="5" fill="#087d92"/>
-
-    <rect x="796" y="109" width="218" height="65" rx="14" fill="#f4f9fe" stroke="#087d92" stroke-width="1.7"/>
-    <rect x="805" y="118" width="200" height="47" rx="9" fill="url(#accent)" fill-opacity=".08"/>
-    <circle cx="819" cy="141" r="5" fill="#087d92"/>
-    <text x="906" y="136" text-anchor="middle" fill="#668098" font-family="Consolas, Menlo, Monaco, monospace" font-size="11" letter-spacing="1.5">01 / PLAN</text>
-    <text x="906" y="157" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" font-weight="700">SYSTEM DESIGN</text>
-
-    <rect x="673" y="250" width="170" height="61" rx="13" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.7"/>
-    <rect x="967" y="250" width="170" height="61" rx="13" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.7"/>
-    <circle cx="696" cy="281" r="5" fill="#087d92"/>
-    <circle cx="990" cy="281" r="5" fill="#655ac5"/>
-    <text x="758" y="276" text-anchor="middle" fill="#668098" font-family="Consolas, Menlo, Monaco, monospace" font-size="11" letter-spacing="1.5">02 / BACKEND</text>
-    <text x="758" y="297" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" font-weight="700">LARAVEL</text>
-    <text x="1052" y="276" text-anchor="middle" fill="#668098" font-family="Consolas, Menlo, Monaco, monospace" font-size="11" letter-spacing="1.5">03 / FRONTEND</text>
-    <text x="1052" y="297" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" font-weight="700">REACT</text>
-    <circle cx="1102" cy="58" r="5" fill="#087d92"><animate attributeName="opacity" values="1;.45;1" dur="4s" repeatCount="indefinite"/></circle>
-    <text x="1088" y="62" text-anchor="end" fill="#668098" font-family="Consolas, Menlo, Monaco, monospace" font-size="11" letter-spacing="1">OPEN TO WORK</text>
+    <rect width="1180" height="450" fill="url(#background)"/><rect width="1180" height="450" fill="url(#grid)"/>
+    <circle cx="968" cy="160" r="252" fill="url(#halo)"/>
+    <rect x="1" y="1" width="1178" height="448" rx="24" fill="none" stroke="#bfd2e3" stroke-width="2"/>
+    <path d="M34 42v208" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/><path d="M63 69h62" stroke="#087d92" stroke-width="3"/>
+    <text x="63" y="56" fill="#087d92" font-family="Consolas, Menlo, Monaco, monospace" font-size="12" font-weight="700" letter-spacing="2.3">WP / ENGINEERING PROFILE</text>
+    <circle cx="1127" cy="51" r="5" fill="#087d92"><animate attributeName="opacity" values="1;.5;1" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="1114" y="55" text-anchor="end" fill="#627e96" font-family="Consolas, Menlo, Monaco, monospace" font-size="11" letter-spacing="1">OPEN TO WORK</text>
+    <text x="62" y="135" fill="#183047" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">Wahyu Prayogo</text>
+    <text x="64" y="181" fill="#087d92" font-family="Consolas, Menlo, Monaco, monospace" font-size="25" font-weight="700" letter-spacing="1.6">SOFTWARE ENGINEER</text>
+    <path d="M64 199h555" stroke="#bfd2e3" stroke-width="1.5"/>
+    <text x="64" y="227" fill="#4b657e" font-family="Arial, Helvetica, sans-serif" font-size="18">I plan web systems, build Laravel backends,</text>
+    <text x="64" y="252" fill="#4b657e" font-family="Arial, Helvetica, sans-serif" font-size="18">and craft React interfaces.</text>
+    <path d="M682 87v170" stroke="#bfd2e3" stroke-opacity=".75"/>
+    <circle cx="975" cy="172" r="100" fill="none" stroke="#bfd2e3" stroke-opacity=".36"/><circle cx="975" cy="172" r="72" fill="none" stroke="#087d92" stroke-opacity=".15"/>
+    <path d="M963 149v24M963 173H848v16M963 173h124v16" fill="none" stroke="#5e93ae" stroke-width="2.3" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="0;-22" dur="8s" repeatCount="indefinite"/></path>
+    <circle cx="963" cy="173" r="4" fill="#087d92"/>
+    <rect x="857" y="91" width="212" height="58" rx="13" fill="#f4f9fe" stroke="#087d92" stroke-width="1.6"/>
+    <text x="963" y="114" text-anchor="middle" fill="#627e96" font-family="Consolas, Menlo, Monaco, monospace" font-size="10" letter-spacing="1.7">PLAN THE SYSTEM</text>
+    <text x="963" y="136" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" font-weight="700">SYSTEM DESIGN</text>
+    <rect x="758" y="189" width="180" height="63" rx="13" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.6"/>
+    <rect x="997" y="189" width="158" height="63" rx="13" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.6"/>
+    <circle cx="777" cy="220" r="4" fill="#087d92"/><circle cx="1016" cy="220" r="4" fill="#655ac5"/>
+    <text x="849" y="215" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="13" font-weight="700">BACKEND + DATA</text>
+    <text x="849" y="236" text-anchor="middle" fill="#627e96" font-family="Consolas, Menlo, Monaco, monospace" font-size="11">Laravel · PHP · Go</text>
+    <text x="1076" y="215" text-anchor="middle" fill="#183047" font-family="Consolas, Menlo, Monaco, monospace" font-size="13" font-weight="700">FRONTEND</text>
+    <text x="1076" y="236" text-anchor="middle" fill="#627e96" font-family="Consolas, Menlo, Monaco, monospace" font-size="11">React · JS · TS</text>
+    <path d="M48 273h1084" stroke="#bfd2e3" stroke-width="1.5"/>
+    <rect x="48" y="285" width="275" height="140" rx="17" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.5"/>
+    <rect x="338" y="285" width="416" height="140" rx="17" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.5"/>
+    <rect x="769" y="285" width="363" height="140" rx="17" fill="#f4f9fe" stroke="#bfd2e3" stroke-width="1.5"/>
+    <path d="M66 286h85M356 286h85M787 286h85" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <text x="68" y="311" fill="#087d92" font-family="Consolas, Menlo, Monaco, monospace" font-size="10" font-weight="700" letter-spacing="1.8">01 / ARCHITECTURE</text>
+    <text x="358" y="311" fill="#087d92" font-family="Consolas, Menlo, Monaco, monospace" font-size="10" font-weight="700" letter-spacing="1.8">02 / ENGINEERING</text>
+    <text x="789" y="311" fill="#655ac5" font-family="Consolas, Menlo, Monaco, monospace" font-size="10" font-weight="700" letter-spacing="1.8">03 / INTERFACE</text>
+    <text x="68" y="338" fill="#183047" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">System design</text>
+    <text x="358" y="338" fill="#183047" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Backend, data &amp; infrastructure</text>
+    <text x="789" y="338" fill="#183047" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Frontend</text>
+    <text x="68" y="364" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Feature planning</text>
+    <text x="68" y="387" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Data &amp; business workflows</text>
+    <text x="68" y="410" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">System structure</text>
+    <text x="358" y="364" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">PHP · Laravel · Go</text>
+    <text x="358" y="387" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">MySQL · PostgreSQL · Redis</text>
+    <text x="358" y="410" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Docker · Nginx</text>
+    <text x="789" y="364" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">React · JavaScript · TypeScript</text>
+    <text x="789" y="387" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">HTML · CSS · Tailwind CSS</text>
+    <text x="789" y="410" fill="#4b657e" font-family="Consolas, Menlo, Monaco, monospace" font-size="13">Bootstrap</text>
   </g>
 </svg>

@@ -14,7 +14,7 @@
 
 ## About me
 
-I enjoy working on a product from its first system diagram to the final interface. **Laravel** and **system design** are my strongest areas. I also care about clear user flows and solid performance.
+I work on web applications from planning to interface. My strongest areas are **Laravel** and **system design**: deciding how features, data, and the backend and frontend fit together. I also care about clear user flows and performance.
 
 ## Tech stack
 
@@ -44,9 +44,6 @@ I enjoy working on a product from its first system diagram to the final interfac
   <br />
   <sub>JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS · Bootstrap</sub>
 </div>
-
-**Architecture:** system design and business workflow planning.
-
 
 ## Connect
 
